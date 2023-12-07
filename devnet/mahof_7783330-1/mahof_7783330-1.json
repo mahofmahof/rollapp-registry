@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/mahof_7783330-1.jpg",
   "ibc": {
-    "hubChannel": "channel-6225",
-    "channel": "channel-0",
+    "hubChannel": "channel-channel-7838",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
